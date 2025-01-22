@@ -1,3 +1,3 @@
-go 1.21.6
+go 1.2.3
 
-module example.com/mod
+module github.com/sneha-natekar/copilotextensionssneha/shared
