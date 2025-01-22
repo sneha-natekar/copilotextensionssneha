@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/github/copilotextensions/handlers"
+	"github.com/sneha-natekar/copilotextensionssneha/shared/handlers"
 )
 
 func main() {
